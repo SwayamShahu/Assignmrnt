@@ -391,13 +391,10 @@ Password: (leave blank)
 ## 📞 Contact & Support
 
 - **Author:** Swayam Shahu
-- **Repository:** git@github.com:SwayamShahu/Assignmrnt.git
-- **Issues:** Report bugs and suggest features
+- **Gmail:** swayamshahu153@gmail.com
 
 ## 📄 License
 
 MIT License - See LICENSE file for details
 
 ---
-
-**Built with ❤️ using Spring Boot 4.0.5, Java 21, and best practices for production-ready applications.**
