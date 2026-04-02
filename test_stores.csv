@@ -1,0 +1,11 @@
+store_id,name,title,store_type,brand,city,state,country,region,latitude,longitude,opened_date
+STR-001,Store A,Main Store,RETAIL,Brand X,New York,NY,USA,Northeast,40.7128,-74.0060,2020-01-01
+STR-002,Store B,Secondary,RETAIL,Brand Y,Los Angeles,CA,USA,West,34.0522,-118.2437,2020-02-15
+STR-003,Store C,Tertiary,WAREHOUSE,Brand X,Chicago,IL,USA,Midwest,41.8781,-87.6298,2020-03-10
+STR-004,Store D,Regional,RETAIL,Brand Z,Houston,TX,USA,South,29.7604,-95.3698,2020-04-20
+STR-005,Store E,Hub,RETAIL,Brand Y,Phoenix,AZ,USA,Southwest,33.4484,-112.0742,2020-05-05
+STR-006,StoreF,Small,RETAIL,Brand X,Philadelphia,PA,USA,Northeast,39.9526,-75.1652,2020-06-12
+STR-007,Store G,Medium,RETAIL,Brand W,San Antonio,TX,USA,South,29.4241,-98.4936,2020-07-22
+STR-008,Store H,Large,WAREHOUSE,Brand V,San Diego,CA,USA,West,32.7157,-117.1611,2020-08-30
+STR-009,Store I,Huge,RETAIL,Brand U,Dallas,TX,USA,South,32.7767,-96.7970,2020-09-14
+STR-010,Store J,VerySmall,RETAIL,Brand T,San Jose,CA,USA,West,37.3382,-121.8863,2020-10-01

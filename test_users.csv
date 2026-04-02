@@ -1,0 +1,6 @@
+username,email,phone,user_type,supervisor_username
+john_doe,john@example.com,9876543210,1,
+jane_smith,jane@example.com,9876543211,2,
+bob_wilson,bob@example.com,9876543212,3,john_doe
+alice_brown,alice@example.com,9876543213,7,jane_smith
+charlie_davis,charlie@example.com,9876543214,1,bob_wilson
